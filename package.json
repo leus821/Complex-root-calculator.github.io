@@ -1,5 +1,5 @@
 {
-  "homepage": "https://leus821.github.io/Complex-root-calculator",
+  "homepage": "https://leus821.github.io/Complex-root-calculator/",
   "dependencies": {
     "http-server": "^14.1.1",
     "mathjs": "^14.7.0",
@@ -9,7 +9,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
   },
   "author": "",
   "license": "ISC",
