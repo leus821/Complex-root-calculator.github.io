@@ -1,0 +1,27 @@
+@media (max-width:800px) {
+  h1 {
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .sqrt-wrapper {
+    gap: 0px;
+  }
+
+  .calculator__buttons {
+    gap: 5px;
+  }
+
+  .calculator {
+    margin-top: 20px;
+    border: 1px solid black;
+    width: 100%;
+  }
+}
+
+@media (max-width:400px) {
+  .calculator__button {
+    padding: 5px;
+  }
+}

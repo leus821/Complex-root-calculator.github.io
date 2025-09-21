@@ -1,0 +1,11 @@
+{
+  "pageTitle": "Online complex root calculator",
+  "changeLangLabel": "Select language:",
+  "accuracy": "Type accuracy",
+  "clearAll": "Clear",
+  "needHelp": "Need help? You can contact us in discord or telegram",
+  "sign": "There cannot be such a sign at the end of the expression",
+  "unexpected": "Your expression is incorrect",
+  "zag": "",
+  "result": "Infinity"
+}
